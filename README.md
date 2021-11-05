@@ -3,7 +3,7 @@ Uzrakstiet programmu C ++, kas ievada konsolē pāra vai nepāra skaitli, ja tas
 # Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
-	- utt
+	- Izmantojiet matemātiskās formulas
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library

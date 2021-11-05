@@ -4,3 +4,8 @@ Uzrakstiet programmu C ++, kas ievada konsolē pāra vai nepāra skaitli, ja tas
 	- Ievadīt tekstu
 	- Apstrādāt datus
 	- utt
+## Izmantotās tehnoloģijas
+	- C++
+	- SFML library
+## Izmantotie avoti
+	- [SFML dokumentācija]

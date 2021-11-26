@@ -1,5 +1,5 @@
 # Apraksts
-Uzrakstiet programmu C ++, kas ievada konsolē izveidojiet tic-tac-toe spēli. Spēlē ir jābūt 2 spēlētājiem.
+Uzrakstiet programmu C ++, kas ievada konsolē izveidojiet tic-tac-toe spēli.Spēlē ir jābūt 2 spēlētājiem.Arī konsolē ir ievada spēles platums.
 # Galvenās funkcijas
 - Ievadīt tekstu
 - Apstrādāt datus
